@@ -35,6 +35,18 @@ Ferramentas que utilizo no dia a dia ou que já trabalhei:
 </p>
 
 ---
+### 🧵 Cabeamento Estruturado & Fibra Óptica
+<p align="center">
+  <img src="https://img.shields.io/badge/Furukawa-%23E60012?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fujikura-%23007ACC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Legrand-%23E30520?style=for-the-badge&logo=legrand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Huawei-%23FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Corning-%230067B8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Siemon-%23C8102E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prysmian-%23000839?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VCOM-%23FF6A00?style=for-the-badge&logoColor=white"/>
+</p>
+
 
 ## 📈 Github stats 📈
 
