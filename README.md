@@ -38,28 +38,6 @@ Ferramentas que utilizo no dia a dia ou que já trabalhei:
 
 ## 📈 Github stats 📈
 
-### 👀 Visitor's count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Emanoeldw/count.svg" />
-</p>
-
----
-
-### 🔥 Top Langs
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoeldw&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧮 Some stats 📚
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Emanoeldw&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=Emanoeldw&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🏆 Profile Stats Grade
 <p align="center">
